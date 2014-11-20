@@ -1,0 +1,11 @@
+{
+    "name": "callback",
+    "version": "0.0.1",
+    "dependencies": {},
+    "devDependencies": {
+        "async": "^0.9.0"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    }
+}
