@@ -1,7 +1,7 @@
 # callback
 examples to understand javascript callback.
 
-ToDo:
+#To do
 examples using async libraries.
 examples using promises.
 
